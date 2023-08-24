@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>54160685722-31agcng461arv3p2mqo31sclg5np8jg7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.54160685722-31agcng461arv3p2mqo31sclg5np8jg7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCprEAZsqrxku9Ri90oY_5irn8gKPDkDqs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>54160685722</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.earthlingtraveller</string>
+	<key>PROJECT_ID</key>
+	<string>earthling-7b751</string>
+	<key>STORAGE_BUCKET</key>
+	<string>earthling-7b751.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:54160685722:ios:9ff573a97a4d5c6220bd23</string>
+	<key>DATABASE_URL</key>
+	<string>https://earthling-7b751.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "54160685722",
+    "firebase_url": "https://earthling-7b751.firebaseio.com",
+    "project_id": "earthling-7b751",
+    "storage_bucket": "earthling-7b751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54160685722:android:4235a16780c97db520bd23",
+        "android_client_info": {
+          "package_name": "com.earthlingtraveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54160685722-4438r6f25vah742rj171cf6khlshmr5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8r_7PZVBYyOTgwHS-hKpklScgMksYvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54160685722-4438r6f25vah742rj171cf6khlshmr5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54160685722-31agcng461arv3p2mqo31sclg5np8jg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.earthlingtraveller"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54160685722:android:d01252848315839020bd23",
+        "android_client_info": {
+          "package_name": "com.earthlingtravellerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54160685722-4438r6f25vah742rj171cf6khlshmr5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8r_7PZVBYyOTgwHS-hKpklScgMksYvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54160685722-4438r6f25vah742rj171cf6khlshmr5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54160685722-31agcng461arv3p2mqo31sclg5np8jg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.earthlingtraveller"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
